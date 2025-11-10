@@ -23,3 +23,4 @@ cd firelocks-service
 npm install
 cp .env.example .env
 # Edit .env and set FIREBLOCKS_API_KEY and FIREBLOCKS_PRIVATE_KEY
+npm run dev
