@@ -18,7 +18,7 @@ Small TypeScript service that exposes a REST endpoint and proxies it to the Fire
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/henrroo/firelocks-service
 cd firelocks-service
 npm install
 cp .env.example .env
